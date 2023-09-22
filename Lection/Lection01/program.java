@@ -18,7 +18,6 @@ public class program {
         System.out.println(i);
         System.out.println(getType(i));
         System.out.println(getType(c));
-        int j = 123;
         System.out.println(Integer.MAX_VALUE);
         System.out.println(Integer.MIN_VALUE);
         int s = 1200;
